@@ -15,7 +15,7 @@ https://github.com/Fight1127/XXX.git
 
 ## Git使用基础
 
-### clone远程仓库
+### Clone远程仓库
 git clone https://github.com/Fight1127/XXX.git
 ### 切换到developer分支
 git checkout developer
@@ -23,7 +23,7 @@ git checkout developer
 git checkout -b ysy_v1.0.0_dev_branch
 ### 将ysy_v1.0.0_dev_branch分支push到远程仓库
 git push origin ysy_v1.0.0_dev_branch
-### 原则是只可以在ysy_v1.0.0_dev_branch下开发，并push到ysy_v1.0.0_dev_branch分支下，待review后自动merge到developer分支
+### 原则是只可以在ysy_v1.0.0_dev_branch下开发，并Push到ysy_v1.0.0_dev_branch分支下，待Review后自动Merge到developer分支
 
 ## <模拟一个开发流程>
 
